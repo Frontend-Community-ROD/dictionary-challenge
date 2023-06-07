@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  Dictionary app - Communities day challenge May 2023
+  Dictionary app - Communities day challenge Junio 2023
 </div>
 
 ---
@@ -27,7 +27,7 @@ El resto es opcional, pero sería genial que puedas incluir todo lo que puedas.
 
 También te compartimos una API gratuita y muy sencilla: https://dictionaryapi.dev/ (solo en inglés), pero al igual que el diseño esta es opcional, podes usar cualquiera que conozcas/quieras.
 
-!Te esperamos!
+!Te esperamos el **jueves 29 de Junio a las 16hs**!
 
 
 
