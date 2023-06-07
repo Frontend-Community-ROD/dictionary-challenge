@@ -17,7 +17,7 @@
 No hay restricciones del stack tecnológico, y con ello te proponemos que utilices este espacio para investigar ese <ins>framework, librería o lenguaje</ins> que nunca tenés tiempo de probar.
 
 Dentro del proyecto, en la carpeta `referencias` vas a encontrar algunas imágenes que te van a servir de referencia en caso que se te complique el diseño o no quieras perder tiempo con eso. 
-Todo lo que se ve en estas es opcional, excepto los siguientes puntos:
+Todas las funcionalidades que se ven en las imagenes son opcionales, excepto los siguientes puntos:
 - Debe tener un input para poder escribir la palabra que se desea buscar.
 - Debe mostrar todos los significados que tenga.
 - Debe incluir la fonética.
@@ -28,6 +28,3 @@ El resto es opcional, pero sería genial que puedas incluir todo lo que puedas.
 También te compartimos una API gratuita y muy sencilla: https://dictionaryapi.dev/ (solo en inglés), pero al igual que el diseño esta es opcional, podes usar cualquiera que conozcas/quieras.
 
 !Te esperamos el **jueves 29 de Junio a las 16hs**!
-
-
-
